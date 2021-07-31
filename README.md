@@ -5,7 +5,7 @@ Create a posts for students
 steps: 
 1. npm install
 2. npm start
-3.  test the end points
+3.  test the end points using following steps
 4.  Method: POST  http://localhost:8080/login 
   body: {
     "username":"Chandra",
